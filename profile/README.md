@@ -11,4 +11,4 @@
 
 ### Game
 
-- [WoRm2](https://github.com/Miou-zora/WoRm2.git)
+- [WoRm2](https://github.com/Miou-zora/WoRm2.git) by _[Miou-zora](https://github.com/Miou-zora)_
