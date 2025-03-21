@@ -4,8 +4,14 @@
 
 - [EngineSquared](https://github.com/EngineSquared/EngineSquared.git)
 
+### Plugin
+
+- [ESJolt](https://github.com/EngineSquared/ESJolt.git)
+- [VkWrapper](https://github.com/EngineSquared/VkWrapper.git)
+
 ### Demo
 
+- [ESJolt-Test](https://github.com/EngineSquared/ESJolt-Test.git)
 - [VkWrapper-Test](https://github.com/EngineSquared/VkWrapper-Test.git)
 - [GameDemo](https://github.com/EngineSquared/GameDemo.git)
 
