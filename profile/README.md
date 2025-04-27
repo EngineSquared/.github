@@ -8,10 +8,11 @@ Open-source game engine written in C++.
 
 ### Demos
 
-- [ESJolt-Test](https://github.com/EngineSquared/ESJolt-Test.git)
-- [GameDemo](https://github.com/EngineSquared/GameDemo.git)
+- [ESJolt-Test](https://github.com/EngineSquared/ESJolt-Test)
+- [GameDemo](https://github.com/EngineSquared/GameDemo)
+- [OpenGL-Example](https://github.com/EngineSquared/OpenGL-Example)
 
 ### Games
 
-- [WoRm2](https://github.com/Miou-zora/WoRm2.git) by _[Miou-zora](https://github.com/Miou-zora)_
 - [Rolling-Ball](https://github.com/EngineSquared/Rolling-Ball)
+- [WoRm2](https://github.com/Miou-zora/WoRm2.git) by _[Miou-zora](https://github.com/Miou-zora)_
