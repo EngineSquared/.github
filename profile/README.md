@@ -1,7 +1,7 @@
 # EngineSquared
 
 <p align="center">
-  <img src="https://github.com/EngineSquared/.github/blob/main/assets/banner.png?raw=true">
+  <img src="assets/banner.png?raw=true">
 </p>
 
 Open-source game engine written in C++.
