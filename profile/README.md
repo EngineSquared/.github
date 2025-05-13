@@ -1,4 +1,6 @@
-# EngineSquared
+<p align="center">
+  <img src="../assets/banner.png?raw=true">
+</p>
 
 Open-source game engine written in C++.
 
