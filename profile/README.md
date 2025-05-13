@@ -1,5 +1,3 @@
-# EngineSquared
-
 <p align="center">
   <img src="../assets/banner.png?raw=true">
 </p>
