@@ -13,6 +13,7 @@ Open-source game engine written in C++.
 - [ESJolt-Test](https://github.com/EngineSquared/ESJolt-Test)
 - [GameDemo](https://github.com/EngineSquared/GameDemo)
 - [OpenGL-Example](https://github.com/EngineSquared/OpenGL-Example)
+- [VehicleDemo](https://github.com/EngineSquared/VehicleDemo)
 
 ### Games
 
