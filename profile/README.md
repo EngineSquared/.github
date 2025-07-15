@@ -17,5 +17,6 @@ Open-source game engine written in C++.
 
 ### Games
 
+- [ES-RS](https://github.com/EngineSquared/ES-RS.git)
 - [Rolling-Ball](https://github.com/EngineSquared/Rolling-Ball)
 - [WoRm2](https://github.com/Miou-zora/WoRm2.git) by _[Miou-zora](https://github.com/Miou-zora)_
